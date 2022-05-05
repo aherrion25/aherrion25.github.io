@@ -1,0 +1,56 @@
+body {
+	margin: 50px 100px;
+    padding: 30px 48px;
+    background-color: rgb(188, 194, 194);
+    text-align: left;
+}
+
+header {
+	font-size: 42px;
+	background-color: rgb(133, 142, 142);
+	border-radius: 50px;
+	text-align: center;
+	color: rgba(12, 12, 12, .7);
+
+}
+
+header h2{
+	font-size: 26px;
+	padding: -12px -20px;
+	margin-bottom: -20px;
+
+}
+
+p{
+	display: inline-block;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 64px;
+}
+
+#experience{
+	font-size: 42px;
+}
+
+#knowledge{
+	font-size: 42px;
+}
+
+
+h3 {
+	font-size: 26px;
+	margin-bottom: 12px ;
+}
+
+h4 {
+	font-size: 22px;
+	margin-bottom: 12px;
+}
+
+li {
+	font-size: 18px;
+	text-align: left;
+	margin-bottom: 12px;
+}
