@@ -1,0 +1,104 @@
+body{
+	font-family: 'Averia Sans Libre', 'Georgia', sans-serif ;
+	background-color: #BCBFBF;
+	
+}
+
+header {
+	font-size: 42px;
+    background-image: radial-gradient(#25DFDF 25%, #BCBFBF 50%, #25DFDF 100%);
+	border-radius: 75px;
+	text-align: center;
+	color: #ffffff;
+	font-family: "Lucida Handwriting", Arial, cursive;
+	text-shadow: 2px 2px #666666;
+	margin-bottom: 8%;
+	margin-right: 25%;
+	margin-left: 25%;
+	display:inline-block
+
+}
+
+header h2{
+	font-size: 26px;
+	padding: -12px -20px;
+	
+	color: #ffffff
+    
+
+	
+}
+
+
+
+section h2{
+	color: #ffffff;
+	background: #25DFDF;
+	text-align: center;
+	text-shadow: 2px 2px #666666;
+
+
+}
+section h3{
+	font-size: 18px;
+	text-decoration: underline;
+	text-shadow: 2px 2px #FFFFFF;
+	
+}
+
+
+
+p{
+	font-size: 20px;
+
+}
+
+#experience{
+	font-size: 32px;
+	text-decoration:underline ;
+	margin-left: 25%;
+	margin-right: 25%;
+	
+}
+
+#knowledge{
+	font-size: 32px;
+	text-decoration:underline;
+	margin-left: 25%;
+	margin-right: 25%;
+
+}
+
+#lookout{
+	font-size: 32px;
+	text-decoration: underline;
+	text-shadow: 2px 2px #25DFDF;
+	color: #ffffff;
+	background-color: #BCBFBF ;
+
+}
+
+
+
+summary{
+	font-style:normal;
+	font-weight: bolder;
+	font-size: 24px;
+	text-transform: uppercase;
+	background-color: #BCBFBF;
+
+
+
+}
+
+details{
+	font-style: normal;
+	background-color: #25DFDF;
+	padding-bottom: 4%;
+	
+}
+
+
+footer{
+	margin: 5%;
+}
